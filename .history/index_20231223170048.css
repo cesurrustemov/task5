@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    
-}
+
 h1 {
     margin-left: 135px;
     color: var(--Text_Dark_Accent, #EF6D58);
