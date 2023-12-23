@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;700;800&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
+.container{
+    padding: 112px 135px 68px 135px;
+    background: #FDF0E9; 
+    min-height: 200vh;   
+}
 h1 {
     margin-left: 135px;
     color: var(--Text_Dark_Accent, #EF6D58);
