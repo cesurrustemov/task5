@@ -42,8 +42,6 @@ h2 {
 .button-box{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 64px;
-
 }
 button{
     border-radius: 6px;

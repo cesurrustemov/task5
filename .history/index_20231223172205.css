@@ -37,13 +37,10 @@ h2 {
 .text-container {
     display: flex;
     justify-content: space-between;
-    
 }
 .button-box{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 64px;
-
 }
 button{
     border-radius: 6px;
